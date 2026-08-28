@@ -1,6 +1,6 @@
 ## sonREvenge
 
-Game reversing and automation.
+some fun stuff xD
 
 - **REvengeBS** Frida agent for Brawl Stars. Aimbot, ESP, killaura, autododge.
 - **REvengeBSIndustry** Brawl Stars auto-farm. BlueStacks, ONNX, pathfinding.
